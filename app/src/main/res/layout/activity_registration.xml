@@ -40,7 +40,7 @@
             android:id="@+id/editTextRegPhoneNumber"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Phone number"
+            android:hint="ID number"
             android:inputType="phone" />
 
         <EditText
