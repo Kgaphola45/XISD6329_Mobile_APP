@@ -25,15 +25,15 @@
 
         <EditText
             android:id="@+id/editTextEmail"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="331dp"
+            android:layout_height="56dp"
             android:hint="Email"
             android:inputType="textEmailAddress" />
 
         <EditText
             android:id="@+id/editTextPassword"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_width="332dp"
+            android:layout_height="70dp"
             android:hint="Password"
             android:inputType="textPassword"
             app:passwordToggleEnabled="true" />

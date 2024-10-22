@@ -3,6 +3,6 @@
         <string-array name="role_options">
             <item>Family/Friends</item>
             <item>Senior Citizen</item>
-            <item>Volunteer</item>
+            <item>CareGiver</item>
         </string-array>
 </resources>

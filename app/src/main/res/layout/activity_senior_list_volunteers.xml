@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="55dp"
         android:gravity="center"
-        android:text="Scheduled volunteers"
+        android:text="Scheduled CareGiver"
         android:textSize="24dp"
         android:textStyle="bold" />
 

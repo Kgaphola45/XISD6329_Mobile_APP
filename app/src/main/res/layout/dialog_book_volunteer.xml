@@ -40,6 +40,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/volunteerContactTextView"
-        android:text="Book Volunteer"
+        android:text="Book a CareGiver"
         android:layout_margin="16dp"/>
 </LinearLayout>
