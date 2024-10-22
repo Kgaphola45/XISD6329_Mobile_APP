@@ -9,7 +9,7 @@ enum class UserRoles {
         return when (this) {
             FAMILY_FRIENDS -> "Family and Friends"
             SENIOR_CITIZEN -> "Senior Citizen"
-            VOLUNTEER -> "Volunteer"
+            VOLUNTEER -> "CareGiver"
         }
     }
 
