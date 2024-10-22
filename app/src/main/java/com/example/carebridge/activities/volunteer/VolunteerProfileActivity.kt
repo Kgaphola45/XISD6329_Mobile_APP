@@ -46,7 +46,7 @@ class VolunteerProfileActivity : AppCompatActivity() {
 //        profilePhoto = findViewById(R.id.profilePhotoImageView)
 
         val editButton: Button = findViewById(R.id.editButton)
-        headerTv.text = "Volunteer Profile"
+        headerTv.text = "CareGiver Profile"
         editButton.setOnClickListener {
             val intent = Intent(this, VolunteerEditProfileActivity::class.java)
             startActivity(intent)
