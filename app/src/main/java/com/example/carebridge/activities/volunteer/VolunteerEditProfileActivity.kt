@@ -46,7 +46,7 @@ class VolunteerEditProfileActivity : AppCompatActivity() {
         sharedPreferncesManager = SharedPreferncesManager(this)
         firestore = FirebaseFirestore.getInstance()
 
-        headerTv.text = "CareGiver Profile"
+        headerTv.text = "The CareGiver Profile"
         // Retrieve current user details from SharedPreferences
         val userId = sharedPreferncesManager.getValue("id")
         val name = sharedPreferncesManager.getValue("name")
